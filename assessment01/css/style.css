@@ -1,0 +1,71 @@
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #1F3864;
+}
+
+h2 {
+    color: #2E74B5;
+}
+
+p {
+    color: #333333;
+}
+
+nav {
+    background-color: #dddddd;
+}
+
+nav a {
+    color: black;
+    margin-right: 15px;
+}
+
+footer {
+    background-color: #dddddd;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    background-color: #dddddd;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+form {
+    width: 300px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, select, textarea {
+    width: 100%;
+}
+
+button {
+    margin-top: 10px;
+}
+
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.active {
+    font-weight: bold;
+}
